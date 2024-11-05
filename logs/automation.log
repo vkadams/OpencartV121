@@ -1,0 +1,452 @@
+22:17:36.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:17:36.222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+22:17:36.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.231 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+22:17:36.247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+22:17:36.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:17:36.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.251 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.259 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.259 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:17:36.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:36.268 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\AppData\Local\Temp\1\testng-eclipse--558536877\testng-customsuite.xml
+
+22:17:36.284 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+22:17:41.444 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+22:17:41.487 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:17:41.601 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:17:42.303 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:17:43.769 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:17:43.816 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+22:17:44.326 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@771db12c: 136 ms
+22:17:44.327 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3afae281: 1 ms
+22:17:44.335 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7bb004b8: 8 ms
+22:17:44.342 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6b474074: 6 ms
+22:17:44.351 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2788d0fe: 9 ms
+22:17:44.351 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ab3aac: 0 ms
+22:27:54.314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\AppData\Local\Temp\1\testng-eclipse-1044398728\testng-customsuite.xml"
+22:27:54.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.527 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+22:27:54.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.529 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.536 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+22:27:54.544 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+22:27:54.545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+22:27:54.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:27:54.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:27:54.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\AppData\Local\Temp\1\testng-eclipse-1044398728\testng-customsuite.xml
+
+22:27:54.581 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+22:27:59.555 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+22:27:59.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:27:59.775 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:28:00.467 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:28:02.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:28:02.192 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+22:28:02.571 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@51e0301d: 79 ms
+22:28:02.572 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@47d7bfb3: 0 ms
+22:28:02.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@51827393: 7 ms
+22:28:02.585 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@185f7840: 6 ms
+22:28:02.593 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@77d18d0b: 8 ms
+22:28:02.593 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a344b65: 0 ms
+16:31:18.990 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:31:19.240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:32:23.022 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:32:23.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:34:32.932 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:34:33.239 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:35:26.930 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:35:27.250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:36:09.195 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:36:09.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:36:41.213 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:36:41.465 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:36:47.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:36:47.844 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:36:47.936 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:36:48.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:36:50.143 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:36:50.186 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+16:37:59.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:37:59.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:38:06.840 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:38:06.852 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:38:07.105 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:38:07.803 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:38:09.513 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:38:09.554 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+16:42:15.884 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml"
+16:42:16.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml
+
+16:42:22.282 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:42:22.317 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:42:22.459 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:42:23.254 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:42:25.176 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:42:25.281 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+16:42:25.361 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:42:25.362 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:42:25.749 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:42:26.703 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:42:28.752 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:42:28.851 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:42:28.853 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:42:28.877 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+16:42:29.076 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:42:29.820 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:42:31.405 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:42:31.453 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+16:55:19.829 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+16:55:20.114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+16:55:28.185 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:55:28.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:55:28.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:55:29.195 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:55:31.646 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:55:31.680 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+17:21:17.553 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+17:21:17.745 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+17:21:24.144 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+17:21:24.163 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+17:21:24.403 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:21:25.119 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:21:26.754 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:21:26.784 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+11:22:45.291 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+11:22:45.689 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+11:22:52.638 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:24:37.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+11:24:37.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+11:24:41.830 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:27:10.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+11:27:10.410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+11:27:15.162 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:27:16.744 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+11:28:12.662 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+11:28:12.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+11:28:18.117 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:28:21.852 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+10:54:48.645 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+10:54:48.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+10:54:57.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.741 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.743 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.759 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.761 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.778 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.790 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.791 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.791 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.820 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.820 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.831 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.832 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.832 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:54:57.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:54:57.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:54:57.910 [main] INFO  testCases.TC003_LoginDDT - ***starting tc003_LoginDDT***
+10:55:00.007 [main] INFO  testCases.TC003_LoginDDT - ***Completing tc003_LoginDDT***
+10:55:00.011 [main] INFO  testCases.TC003_LoginDDT - ***starting tc003_LoginDDT***
+10:55:02.947 [main] INFO  testCases.TC003_LoginDDT - ***starting tc003_LoginDDT***
+10:55:06.382 [main] INFO  testCases.TC003_LoginDDT - ***starting tc003_LoginDDT***
+10:55:17.825 [main] INFO  testCases.TC003_LoginDDT - ***Completing tc003_LoginDDT***
+10:55:17.827 [main] INFO  testCases.TC003_LoginDDT - ***starting tc003_LoginDDT***
+10:55:20.816 [main] INFO  testCases.TC003_LoginDDT - ***Completing tc003_LoginDDT***
+16:50:34.911 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml"
+16:50:35.229 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml
+
+16:50:42.651 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+16:50:42.705 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:50:42.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+16:50:43.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:50:45.187 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:50:45.256 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+16:50:51.180 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+16:50:52.897 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+16:51:48.897 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml"
+16:51:49.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml
+
+16:51:54.307 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+16:51:56.161 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+11:19:39.365 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml"
+11:19:39.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml
+
+11:20:31.318 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:20:31.351 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:20:31.460 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:20:32.181 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:20:33.620 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:20:33.662 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+11:20:38.234 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:20:40.138 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+11:21:22.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml"
+11:21:22.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml
+
+11:21:27.799 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:21:27.841 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:21:27.966 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:21:28.991 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:21:30.401 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:21:30.451 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+11:21:35.445 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:21:37.206 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+11:23:06.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml"
+11:23:06.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grouping.xml
+
+11:23:12.288 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:23:12.320 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:23:12.428 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:23:13.146 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:23:15.018 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:23:15.096 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+11:23:20.475 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:32:55.098 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\test-output\testng-failed.xml"
+11:32:55.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\test-output\testng-failed.xml
+
+11:33:00.799 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:33:02.345 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+18:43:13.732 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+18:43:13.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+18:43:19.808 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:43:19.842 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:43:19.931 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:43:20.583 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:43:21.865 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:43:21.903 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+18:43:26.280 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+18:43:27.891 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+18:44:21.474 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+18:44:21.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+18:47:14.177 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+18:47:14.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml
+
+18:47:19.375 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:47:19.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:47:19.561 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:47:20.279 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:47:22.291 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:47:22.343 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+18:47:26.628 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+18:47:28.146 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+18:49:32.927 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml"
+18:49:33.110 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml
+
+18:50:14.939 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml"
+18:50:15.117 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml
+
+18:50:15.272 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:50:15.307 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:50:20.794 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:50:20.795 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:50:20.936 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:50:21.637 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:50:33.362 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:50:33.363 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:50:33.595 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:59:47.835 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml"
+18:59:48.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml
+
+18:59:48.232 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:59:48.232 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:59:48.255 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:59:48.255 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:59:54.461 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+18:59:54.461 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:59:54.567 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:59:55.293 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:59:56.720 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+18:59:56.768 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+19:01:12.312 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml"
+19:01:12.522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml
+
+19:01:12.734 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+19:01:12.755 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+19:01:18.963 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+19:01:18.965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+19:01:18.978 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+19:01:18.979 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+19:01:19.136 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+19:01:19.167 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:08:25.098 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml"
+20:08:25.280 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\crossBrowserTesting.xml
+
+20:08:25.491 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+20:08:25.511 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+16:58:47.176 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml"
+16:58:47.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml
+
+17:01:30.644 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml"
+17:01:30.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml
+
+17:05:21.822 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml"
+17:05:22.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml
+
+17:07:42.850 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml"
+17:07:43.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml
+
+22:06:00.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml"
+22:06:00.915 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\grid-docker.xml
+
+22:06:06.133 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+22:06:06.165 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:06:06.339 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:06:07.149 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:06:09.101 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:06:09.170 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+22:06:12.163 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+22:06:13.820 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+22:29:57.968 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+22:32:53.218 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+22:32:58.676 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+22:32:58.717 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+22:32:58.819 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+22:32:59.469 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:33:00.857 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:33:00.906 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+22:33:05.620 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+22:33:07.218 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+11:00:07.645 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+11:00:13.039 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:00:13.066 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:00:13.146 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:00:13.817 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:00:15.213 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:00:15.243 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+11:00:19.662 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:00:21.237 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
+11:08:28.078 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vxk8844\OneDrive - The Home Depot\Documents\selweb\OpencartV121\master.xml"
+11:08:32.638 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:08:32.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:08:32.741 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:08:33.389 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:08:34.705 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:08:34.729 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Completed TC001_AccountRegistrationTest ***
+11:08:38.957 [main] INFO  testCases.TC002_LoginTest - ***Starting tc002_LoginTest***
+11:08:40.432 [main] INFO  testCases.TC002_LoginTest - ***Finished tc002_LoginTest***
